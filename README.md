@@ -1,5 +1,4 @@
 # Mug
-Mug
 🟢 Project: Handled Cup 3D Model (Black & White Versions)  
 🎨 Creator: Reza Damghani  
 📁 Formats: BLEND, OBJ, PNG  
